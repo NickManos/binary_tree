@@ -8,3 +8,4 @@ I create the nodes from a node class and assign the data for the tree manually
 then call the traverse method which performs all three types of traversal on
 the tree.
 
+[mit-license](http://nickmanos.mit-license.org/)
